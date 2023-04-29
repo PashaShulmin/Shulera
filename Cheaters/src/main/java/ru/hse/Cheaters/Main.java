@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Main {
 
+    // main Method
     public static void main(String[] args) throws InterruptedException {
         int fairPlayersNumber = PerformerClass.getFairPlayersNumber();
         int cheatersNumber = PerformerClass.getCheaterNumber();
